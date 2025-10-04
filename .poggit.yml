@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/dimaekgardt915-lang/ScoreHudCoinss
+build-by-default: true
+branches:
+- main
+projects:
+  ScoreHudCoinss:
+    path: ""
+...
